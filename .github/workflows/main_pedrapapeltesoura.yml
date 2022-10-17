@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'pedrapapeltesoura'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11DF5BCE75EC48E1AD79F3C75D7BC68E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1364CFCA3B584F9B8E3BA6EDE399A27A }}
           package: '*.war'
